@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![archi7274's GitHub stats](https://github-readme-stats.vercel.app/api?username=archi7274&show_icons=true&theme=dracula)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archi7274&layout=compact&theme=dracula)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=archi7274)](https://solved.ac/archi7274)
